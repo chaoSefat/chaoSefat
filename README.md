@@ -12,12 +12,12 @@
 
 🎓 **M.Sc. Informatics** from **Technical University of Munich** (Grade: 2.0)  
 🔬 **AI Researcher** specializing in **NLP for Under-Resourced Languages**  
-💻 **Software Developer** with 3+ years of experience serving **50,000+ users**  
+💻 **Software Developer** with 3 years of experience serving **50,000+ users**  
 🌍 Currently pursuing **independent NLP research** and **AWS Cloud certification**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-sefat-a74733196)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abd.al.sefat@gmail.com)
 [![Personal Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
