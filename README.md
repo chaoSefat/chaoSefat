@@ -84,10 +84,15 @@
 
 ## 🏆 Featured Projects & Research
 
-### 🌐 **GlotWeb: Web-Scale Dataset Creation for Low-Resource NLP**
+### 🌐 **Web-Scale Dataset Creation for Low-Resource NLP**
 > 🎯 **Impact:** Built datasets for 400+ under-resourced languages  
 > 🔧 **Tech:** Python, Multi-threading, Language Modeling, Perplexity Analysis  
-> 📄 **Status:** Manuscript ready for flagship NLP conference submission
+> 📄 **Status:** Manuscript under review at a flagship NLP conference
+
+### 📰 **Migration Sentiment Analysis with LLMs**
+> 🎯 **Scale:** Processed 26M+ news sentences (2010-2024)  
+> 🔧 **Tech:** GPT-4, Bilingual analysis, Temporal sentiment tracking  
+> 📊 **Insight:** Uncovered evolving migration bias in media
 
 ### 🏛️ **LLM Fine-tuning for Legal Text Classification**
 > 🎯 **Achievement:** Comparative analysis of LegalBERT vs general models  
@@ -98,11 +103,6 @@
 > 🎯 **Achievement:** 95% accuracy in yield prediction  
 > 🔧 **Tech:** MODIS NDVI, NASA satellite data, ML pipeline  
 > 📖 **Published:** IEEE IGARSS 2019 (17 citations)
-
-### 📰 **Migration Sentiment Analysis with LLMs**
-> 🎯 **Scale:** Processed 26M+ news sentences (2010-2024)  
-> 🔧 **Tech:** GPT-4, Bilingual analysis, Temporal sentiment tracking  
-> 📊 **Insight:** Uncovered evolving migration bias in media
 
 ---
 
@@ -121,8 +121,8 @@
 
 ## 🌍 Languages
 
-🇺🇸 **English** - Native/Bilingual (C2)  
-🇧🇩 **Bengali** - Native/Bilingual (C2)  
+🇺🇸 **English** - Native/Bilingual proficiency (C2)  
+🇧🇩 **Bengali** - Native/Bilingual proficiency (C2)  
 🇩🇪 **German** - Good (B1) *Actively improving*  
 🇮🇳🇵🇰 **Hindustani** - Good (B1)
 
