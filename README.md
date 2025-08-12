@@ -124,7 +124,7 @@
 🇺🇸 **English** - Native/Bilingual (C2)  
 🇧🇩 **Bengali** - Native/Bilingual (C2)  
 🇩🇪 **German** - Good (B1) *Actively improving*  
-🇮🇳 **Hindi/Urdu** - Good (B1)
+🇮🇳🇵🇰 **Hindustani** - Good (B1)
 
 ---
 
@@ -157,14 +157,8 @@
 
 *"Passionate about leveraging AI to solve real-world problems and make technology accessible across languages and cultures."*
 
-⭐ **Open to collaborations in NLP, AI research, and software development**
+⭐ **Open to collaborations in NLP, AI research**
 
 </div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
-
-</div>
