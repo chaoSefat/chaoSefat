@@ -111,7 +111,6 @@
 <div align="center">
 
 **🧠 Deep Learning Specialization** - DeepLearning.AI  
-**📊 Data Science Track** - Johns Hopkins University  
 **☁️ AWS Cloud Practitioner** - *In Progress*  
 **🤖 LLM Engineering Master** - *Ongoing*
 
